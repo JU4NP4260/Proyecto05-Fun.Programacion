@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juanpa\\source\\repos\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juanpa\\source\\repos\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juanpa\\source\\repos\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
         "projectName": "ColonizacionMarte",
-        "projectPath": "C:\\Users\\Juanpa\\source\\repos\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
-        "packagesPath": "C:\\Users\\Juanpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juanpa\\source\\repos\\ColonizacionMarte\\ColonizacionMarte\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juanpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
