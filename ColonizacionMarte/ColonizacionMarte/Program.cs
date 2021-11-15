@@ -88,6 +88,11 @@ namespace ColonizacionMarte
                 }
             }
 
+          
+                float promedios = Promedios(ArregloLanzamientos);
+                //float[] promedios = new float[1];
+        
+
             //Aqui visualizamos resultados
             Console.WriteLine("\n\nResultados obtenidos de los lanzamientos:\n");
             Console.WriteLine("Las planicies son A(cidalia), E(lysium) y U(topia)\n");
@@ -97,11 +102,29 @@ namespace ColonizacionMarte
                 Console.WriteLine($"Lanzamiento N°{i+1}: ");
                 Console.WriteLine($"Carga: {ArregloLanzamientos[i].carga} kg");
                 Console.WriteLine($"Destino: {ArregloLanzamientos[i].planicie}");
-                Console.WriteLine();
             }
 
-        }
+            Console.WriteLine($"\nPromedio: {promedios}");
 
+
+        }
+        
+        static float Promedios(Lanzamiento[] lanzamientos)
+        {
+
+            float promedios = 0;
+            int i;
+
+            for(i = 0; i < lanzamientos.Length; i++)
+            {
+                promedios += lanzamientos[i].carga;
+
+            }
+            promedios /= lanzamientos.Length;
+
+            return promedios;
+        }
+        
         /// <summary>
         /// Función que calcula el promedio de carga recibido en cada planicie segun el número de lanzamientos
         /// </summary>
