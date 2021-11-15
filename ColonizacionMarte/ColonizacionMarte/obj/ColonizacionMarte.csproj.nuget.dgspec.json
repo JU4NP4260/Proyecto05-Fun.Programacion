@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {}
+    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\Programación\\Examen5Git\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {
+    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\Programación\\Examen5Git\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
+        "projectUniqueName": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\Programación\\Examen5Git\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
         "projectName": "ColonizacionMarte",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\obj\\",
+        "projectPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\Programación\\Examen5Git\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\ColonizacionMarte.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\Programación\\Examen5Git\\Proyecto05-Fun.Programacion\\ColonizacionMarte\\ColonizacionMarte\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
