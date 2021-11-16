@@ -146,6 +146,8 @@ namespace ColonizacionMarte
 
             Console.WriteLine();
 
+            //error a propósito
+
         }
 
         /// <summary>
