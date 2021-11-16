@@ -1,0 +1,32 @@
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.exe
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.deps.json
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.runtimeconfig.json
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.runtimeconfig.dev.json
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ref\ColonizacionMarte.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.csproj.AssemblyReference.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.AssemblyInfoInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.AssemblyInfo.cs
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.csproj.CoreCompileInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ref\ColonizacionMarte.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\Programación\Examen5Git\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.genruntimeconfig.cache
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.exe
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.deps.json
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.runtimeconfig.json
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.dll
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ref\ColonizacionMarte.dll
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\bin\Debug\net5.0\ColonizacionMarte.pdb
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.AssemblyInfo.cs
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.dll
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ref\ColonizacionMarte.dll
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.pdb
+D:\Visual Studio\Projects\Proyecto5\Proyecto05-Fun.Programacion\ColonizacionMarte\ColonizacionMarte\obj\Debug\net5.0\ColonizacionMarte.genruntimeconfig.cache
